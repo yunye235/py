@@ -3,7 +3,6 @@ import sys
 sys.stdout.reconfigure(encoding="utf-8")
 
 # test_demo.py
-print("==== Python环境测试 ====")
 a = 10
 b = 20
 c = a + b
